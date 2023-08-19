@@ -11,6 +11,8 @@ This is a categorized overview of the repositories I have worked on (created or 
 
 <details><summary>Ground heat exchangers</summary>
 
-... TODO: Continue here
+- [pygfunction](https://github.com/MassimoCimmino/pygfunction) served as the backbone for a first of kind ground heat exchanger design tool [ghedt](https://github.com/j-c-cook/ghedt). 
+- [cpgfunctionEP](https://github.com/j-c-cook/cpgfunctionEP) has been integrated into [EnergyPlus](https://github.com/NREL/EnergyPlus) as a third party application.
+- [cpgfunction](https://github.com/j-c-cook/cpgfunction) was used to compute g-functions on a high performance computing cluster (HPCC).
 
 </details>
