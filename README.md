@@ -1,6 +1,4 @@
-### Repository oveview
-
-Hello 👋 Use the drop down arrows to learn more about the open-source work I've been apart of.
+##### Hello 👋 Use the drop down arrows to learn more about the open-source work I've been apart of.
 
 <details><summary>Controller Area Network bus</summary>
 
