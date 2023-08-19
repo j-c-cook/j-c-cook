@@ -1,6 +1,6 @@
 ### Repository oveview
 
-This is a categorized overview of the repositories I have worked on (created or contributed to).  
+Hello 👋 Use the drop down arrows to learn more about the open-source work I've been apart of.
 
 <details><summary>Controller Area Network bus</summary>
 
