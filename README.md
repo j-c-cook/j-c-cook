@@ -3,14 +3,9 @@
 <details><summary>Controller Area Network bus</summary>
 
 - [hardbyte/python-can](https://github.com/hardbyte/python-can) - has enabled data science work to be performed on recorded CAN data.
+- [j-c-cook/cross-compile-python.md](https://gist.github.com/j-c-cook/2a291dc0bfaa2f6639272e344ff66e62) - [cpython](https://github.com/python/cpython) was cross-compiled to enable usage of `python-can` on an armv7l chip archetecture.
 
  </details>
-
-<details><summary>Cross-compilation</summary>
-
-- [j-c-cook/cross-compile-python.md](https://gist.github.com/j-c-cook/2a291dc0bfaa2f6639272e344ff66e62) - Includes an outline for how to cross compile the Python language (the [cpython](https://github.com/python/cpython) implementation) for use on an obscure processor (armv7l). 
-
-</details>
 
 <details><summary>Ground heat exchangers</summary>
 
