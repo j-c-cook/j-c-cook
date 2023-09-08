@@ -2,7 +2,7 @@
 
 <details><summary>Controller Area Network bus</summary>
 
-- [hardbyte/python-can](https://github.com/hardbyte/python-can) - has enabled data science work to be performed on recorded CAN data.
+- [hardbyte/python-can](https://github.com/hardbyte/python-can) - has enabled data engineering work to be performed on recorded CAN data.
 - [j-c-cook/cross-compile-python.md](https://gist.github.com/j-c-cook/2a291dc0bfaa2f6639272e344ff66e62) - [cpython](https://github.com/python/cpython) was cross-compiled to enable usage of `python-can` on an armv7l chip archetecture.
 
  </details>
