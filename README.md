@@ -2,6 +2,7 @@
 
 <details><summary>Controller Area Network bus</summary>
 
+- [j-c-cook/c-can](https://github.com/j-c-cook/c-can) - enables continuous CAN bus logging on an armvl embedded Linux edge device. 
 - [hardbyte/python-can](https://github.com/hardbyte/python-can) - has enabled CAN logging of signals communicated over CAN buses, along with data engineering by parsing recoded logs. 
 - [j-c-cook/cross-compile-python.md](https://gist.github.com/j-c-cook/2a291dc0bfaa2f6639272e344ff66e62) - [cpython](https://github.com/python/cpython) was cross-compiled to enable usage of `python-can` on an armv7l chip archetecture.
 
