@@ -15,4 +15,6 @@
 
 (Refer to my [masters thesis](https://www.proquest.com/openview/666c28b0c84b2b993d1aab54b84b5812/1?cbl=18750&diss=y&pq-origsite=gscholar) for a more detailed discussion.)
 
+Note: An independent copy of [ghedt](https://github.com/j-c-cook/ghedt) was made of the source code (without the git history) and development has continued at [GHEDesigner](https://github.com/BETSRG/GHEDesigner). 
+
 </details>
