@@ -13,6 +13,6 @@
 - [cpgfunctionEP](https://github.com/j-c-cook/cpgfunctionEP) has been integrated into [EnergyPlus](https://github.com/NREL/EnergyPlus) as a third party application.
 - [cpgfunction](https://github.com/j-c-cook/cpgfunction) was used to compute g-functions on a high performance computing cluster (HPCC).
 
-(Refer to my [masters thesis]([https://shareok.org/handle/11244/335489](https://www.proquest.com/openview/666c28b0c84b2b993d1aab54b84b5812/1?cbl=18750&diss=y&pq-origsite=gscholar)) for a more detailed discussion.)
+(Refer to my [masters thesis](https://www.proquest.com/openview/666c28b0c84b2b993d1aab54b84b5812/1?cbl=18750&diss=y&pq-origsite=gscholar) for a more detailed discussion.)
 
 </details>
